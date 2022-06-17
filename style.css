@@ -1,0 +1,102 @@
+.header {
+    text-align: center;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+body{
+    font-family: Ubuntu;
+}
+.main{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.aside{
+    display: flex;
+}
+.aside-2{
+    padding-left: 35%;
+    width: auto;
+}
+.foto{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    position: fixed;
+}
+.contacts{
+    padding-top: 550px;
+    padding-left: 200px;
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h1{
+    text-align: center;
+}
+.h2{
+    margin-left: 20px;
+    border-left: 10px double red;
+}
+.p1{
+    margin-left: 10px;
+}
+.h3{
+    margin-left: 20px;
+    border-left: 10px double red;
+}
+.p2{
+    margin-left: 10px;
+}
+.h4{
+    margin-left: 20px;
+    border-left: 10px double red;
+}
+.p3{
+    margin-left: 10px;
+}
+.h5{
+    margin-left: 20px;
+    border-left: 10px double red;
+}
+.p4{
+    margin-left: 10px;
+}
+.h6{
+    margin-left: 20px;
+    border-left: 10px double red;
+}
